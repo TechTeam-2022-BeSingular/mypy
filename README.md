@@ -182,4 +182,8 @@ To use a compiled version of a development
 version of mypy, directly install a binary from
 https://github.com/mypyc/mypy_mypyc-wheels/releases/latest.
 
-To contribute to the mypyc project, check out https://github.com/mypyc/mypyc
+To contribute to the mypyc project, check out https://github.com/mypyc/mypyc.
+
+
+
+Thank you for reading! this, Hope you are great indeed.
